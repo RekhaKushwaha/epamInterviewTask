@@ -1,0 +1,14 @@
+.content {
+  flex-grow: 1;
+}
+.btn2 {
+  margin-top: 10px;
+}
+.main-header {
+  margin: 50px 0 0 150px;
+}
+.main-content {
+  border: 1px solid rgb(30, 101, 124);
+  margin: 50px 0 0 100px;
+  padding: 10px;
+}

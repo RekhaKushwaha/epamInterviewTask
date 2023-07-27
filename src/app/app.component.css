@@ -1,0 +1,15 @@
+h2 {
+  margin-left: 300px;
+  color: blueviolet;
+}
+
+.container {
+  display: flex;
+  min-height: 400px;
+
+}
+.first {
+  padding-right: 20px;
+  border-right: 1px solid rgb(30, 101, 124);
+}
+
